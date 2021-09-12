@@ -4,6 +4,7 @@ from discord.ext.commands import Cog, Context, command
 
 from ..bot import TechStruckBot
 
+
 class Packages(Cog):
     """Commands related to Package Search"""
 
